@@ -1,10 +1,10 @@
-# 💫 About Me:
- ## 👨‍💻 About Me<br><br>*   🎓 ** Computer Science Undergrad** actively preparing for software engineering roles.<br>*    🛠️ **What I Build:** Mostly functional backend pipelines, API architectures using Node.js with essential React integrations on the frontend.<br>*   🌱 **Current Goal:** Contributing to open-source systems and building highly scalable, production-grade web applications.
+# 👨‍💻 About Me:
+ ## 🎓 **Final Year Computer Science Undergrad** actively preparing for software engineering roles.<br>    🛠️ **What I Build:** Mostly functional backend pipelines, API architectures using Node.js with essential React integrations on the frontend.<br>   🌱 **Current Goal:** Contributing to open-source systems and building highly scalable, production-grade web applications.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tulasi-sahu/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TulasiS88417033) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tulasi-sahu/) <br>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TulasiS88417033) <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tulasisahu20@gmail.com) 
 
 # 💻 Tech Stack:
@@ -20,7 +20,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=tu-lasizzzz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+----
