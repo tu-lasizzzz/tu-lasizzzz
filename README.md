@@ -20,13 +20,13 @@
 ## 📊 Git Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-lasizzzz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-lasizzzz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ## 📈 Activity Trend
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark-violet&bg_color=141414&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-lasizzzz&theme=github-dark-violet&bg_color=141414&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 <!--
 **tu-lasizzzz/tu-lasizzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
